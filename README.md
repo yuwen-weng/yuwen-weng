@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning HTML/CSS/JavaScript.
+- 😄 I was determined to be a Front End Developer.
+
 <!--
 **yuwen-weng/yuwen-weng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
